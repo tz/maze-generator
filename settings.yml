@@ -1,0 +1,11 @@
+cell_width_in_px: 40
+line_width_in_px: 10
+cells_across: 80
+cells_down: 50
+background_color: '#fff'
+line_color: "#00f"
+# Make a direction of movement more likely by increasing its number relative to others
+move_ahead_weight: 20
+move_left_weight: 2
+move_right_weight: 5
+move_reverse_weight: 1
